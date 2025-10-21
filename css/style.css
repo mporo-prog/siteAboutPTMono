@@ -1,0 +1,43 @@
+@import url(reset.css);
+@import url(font.css);
+body{
+    width: 1728px;
+}
+#screen_1{
+    width: 100%;
+    height: 996px;
+    background-image: url('../assets/theFirstFrame.svg');
+    position: relative;
+}
+#screen_2{
+    width: 100%;
+    height: 996px;
+    background-image: url('../assets/theSecondFrame.svg');
+    position: relative;
+}
+/* .text_bg{
+    width: 1314px;
+    height: 934px;
+    background-image: url('../assets/text_bg.svg');
+    position: absolute;
+    left: 362px;
+    top: 90px;
+} */
+/* .red_box{
+    position: absolute;
+    height: 68px;
+    width: 58px;
+    background-color: #F10000;
+} */
+/* #box_1{
+    left: 213px;
+    top: 170px;
+} */
+/* #box_2{
+    left: 112px;
+    top: 523px;
+} */
+/* #box_3{
+    left: 213px;
+    top: 876px;
+} */
